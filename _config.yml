@@ -14,32 +14,32 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 구르는 개발 일지 # the main title
+title: "구르는 개발 일지" # the main title
 
-tagline: 꾸준함은 곧 결과로! # it will display as the sub-title
+tagline: "꾸준함은 곧 결과로!" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  게임 개발자를 목표로 공부한 것을 올리는 블로그입니다.
+  "게임 개발자를 목표로 공부한 것을 올리는 블로그입니다."
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://rlarhdal.github.io"
 
 github:
-  username: rlarhdal # change to your github username
+  username: "rlarhdal" # change to your github username
 
 twitter:
-  username: @어쩌고 # change to your twitter username
+  username: "@어쩌고" # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 김수현
-  email: tngusrla0812@gmail.com # change to your email address
+  name: "김수현"
+  email: "tngusrla0812@gmail.com" # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/어쩌고 # change to your twitter homepage
-    - https://github.com/rlarhdal # change to your github homepage
+    - "https://twitter.com/어쩌고" # change to your twitter homepage
+    - "https://github.com/rlarhdal" # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -78,7 +78,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: "light" # [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
